@@ -13,7 +13,9 @@ Desktop Organizer is a Python automation script that organizes files on your des
 
 - Python 3.x
 - `os` module (comes with Python standard library)
-- 'watchdog' mdoule 
+- 'watchdog' mdoule
+- `shutil` module (comes with Python standard library)
+- `time` module (comes with Python standard library)
 
 ## Installation
 
